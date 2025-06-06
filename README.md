@@ -1,4 +1,3 @@
-# Image-Class-Prediction-Viewer-Flet-TensorFlow-
 # Image Class Prediction & Viewer (Flet + TensorFlow)
 
 This is a desktop/web application built with **Flet**, **TensorFlow**, and **MobileNetV2** that allows you to:
